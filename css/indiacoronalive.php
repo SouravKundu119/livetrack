@@ -7,7 +7,7 @@
 </head>
 <body>
 
-<nav class="navbar navbar-expand-lg nav_style p-3">
+<nav class="navbar navbar-expand-lg nav_style bg-light navbar-light p-3">
   <a class="navbar-brand pl-5" href="#">Covid-19</a>
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
     <span class="navbar-toggler-icon"></span>
@@ -45,7 +45,7 @@
   
   <div class="table-responsive">
     <table class="table table-bordered table-striped text-center">
-    <tr>
+    <tr style="background-color:#101820FF;color:#FEE715FF" >
       <th>Last Updated Time</th>
       <th>State</th>
       <th>Confirmed Cases</th>
@@ -74,12 +74,12 @@
         ?>
 
          <tr>
-           <td><?php echo $coronalive['statewise'][$i]['lastupdatedtime'] ?></td>
-           <td><?php echo $coronalive['statewise'][$i]['state'] ?></td>
-           <td><?php echo $coronalive['statewise'][$i]['confirmed'] ?></td>
-           <td><?php echo $coronalive['statewise'][$i]['active'] ?></td>
-           <td><?php echo $coronalive['statewise'][$i]['recovered'] ?></td>
-           <td><?php echo $coronalive['statewise'][$i]['deaths'] ?></td>
+           <td style="background-color:#FC766AFF"><?php echo $coronalive['statewise'][$i]['lastupdatedtime'] ?></td>
+           <td style="background-color:#5B84B1FF  ;color:#fff"><?php echo $coronalive['statewise'][$i]['state'] ?></td>
+           <td style="background-color:#42EADDFF "><?php echo $coronalive['statewise'][$i]['confirmed'] ?></td>
+           <td style="background-color:#ADEFD1FF "><?php echo $coronalive['statewise'][$i]['active'] ?></td>
+           <td style="background-color:#755139FF ;color:#F2EDD7FF"><?php echo $coronalive['statewise'][$i]['recovered'] ?></td>
+           <td style="background-color:#343148FF ;color:#D7C49EFF"><?php echo $coronalive['statewise'][$i]['deaths'] ?></td>
 
          </tr>
 

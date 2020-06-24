@@ -7,7 +7,7 @@
 </head>
 <body onload="fetch()">
 
-<nav class="navbar navbar-expand-lg nav_style bg-dark navbar-dark p-3">
+<nav class="navbar navbar-expand-lg nav_style bg-light navbar-light p-3">
   <a class="navbar-brand pl-5" href="#">Covid-19</a>  
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
     <span class="navbar-toggler-icon"></span>
@@ -63,12 +63,12 @@
 
   <div class="table-responsive">
     <table class="table table-bordered table-striped text-center" id="tbval">
-      <tr>
+      <tr style="background-color:#101820FF;color:#FEE715FF">
       <th>Country</th>
       <th>Total Confirmed</th>
       <th>Total Recovered</th>
       <th>Total Deaths</th>
-      <th>Total Deaths</th>
+      <th>New Confirmed</th>
       <th>New Recovered</th>
       <th>New Deaths</th>
       </tr>
@@ -408,8 +408,8 @@
 
              x.insertCell(6);
              tbval.rows[i].cells[6].innerHTML = data['Countries'][i-1]['NewDeaths'];
-             tbval.rows[i].cells[6].style.background = '#192E5B';
-             tbval.rows[i].cells[6].style.color = '#fff';
+             tbval.rows[i].cells[6].style.background = '#FC766AFF';
+             tbval.rows[i].cells[6].style.color = '#000';
 
 
 
