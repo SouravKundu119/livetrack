@@ -8,7 +8,7 @@
 <body onload="fetch()">
 
 <nav class="navbar navbar-expand-lg nav_style bg-dark navbar-dark p-3">
-  <a class="navbar-brand pl-5" href="#">Covid-19</a>
+  <a class="navbar-brand pl-5" href="#">Covid-19</a>  
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
     <span class="navbar-toggler-icon"></span>
   </button>
@@ -42,7 +42,6 @@
         <div class="col-lg-5 col-md-5 col-12 order-lg-1 order-2">
           <div class="leftside w-100 h-100 d-flex justify-content-center align-items-center">
             <img src="img/group.png" width="300" height="300">
-
           </div>
         </div>
 
@@ -89,7 +88,7 @@
       <img src="img/aboutcorona.png" class="img-fluid">
     </div>
     <div class="col-lg-6 col-md-6 col-12">
-      <h2>What is Covid-19 (Coronavirus) ?</h2>
+      <h2>What is Covid-19 (Coronavirus) ?</h2><br>
       <p>Coronavirus disease (COVID-19) is an infectious disease caused by a newly discovered coronavirus.
         Most people infected with the COVID-19 virus will experience
         mild to moderate respiratory illness and recover without 

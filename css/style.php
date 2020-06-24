@@ -14,6 +14,9 @@ html {
 .nav_style a{
     color: lightgreen !important;
 }
+nav button{
+   background-color: lightgreen !important;
+}
 
 /* -------------------------MAIN HEADER-------------------- */
 .main_header {
