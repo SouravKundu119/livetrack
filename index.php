@@ -313,7 +313,7 @@
         custom-control-inline text-capitalize">
         <input type="checkbox" class="custom-control-input" 
         id="customcheckbox4" name="coronasym[]" value="tired">
-        <label class="custom-control-label" for="customcheckbox4">felling weak</label>
+        <label class="custom-control-label" for="customcheckbox4">feeling weak</label>
         </div>
       </div>
 
