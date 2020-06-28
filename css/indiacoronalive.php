@@ -16,22 +16,22 @@
   <div class="collapse navbar-collapse" id="navbarSupportedContent">
     <ul class="navbar-nav ml-auto pr-5">
       <li class="nav-item active">
-        <a class="nav-link" href="../index.php">Home <span class="sr-only">(current)</span></a>
+        <a class="nav-link" href="https://www.sourav1.cf/#">Home <span class="sr-only">(current)</span></a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="../index.php">About</a>
+        <a class="nav-link" href="https://www.sourav1.cf/index1.html">Websites</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="../index.php">Symptoms</a>
+        <a class="nav-link" href="https://landbot.io/u/H-502690-RABQEPE3V7LQ8DO5/index.html">Chatbot</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="../index.php">Preventions</a>
+        <a class="nav-link" href="https://www.sourav1.cf/index3.html">Books</a>
       </li>
       <li class="nav-item">
         <a class="nav-link" href="indiacoronalive.php">India Corona Live</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="../index.php">Contact</a>
+        <a class="nav-link" href="https://www.sourav1.cf/food.htmlp">Food Blog</a>
       </li>
     </ul>
 
