@@ -31,7 +31,7 @@
         <a class="nav-link" href="indiacoronalive.php">India Corona Live</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="https://www.sourav1.cf/food.htmlp">Food Blog</a>
+        <a class="nav-link" href="https://www.sourav1.cf/food.html">Food Blog</a>
       </li>
     </ul>
 
